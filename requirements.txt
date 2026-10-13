@@ -1,0 +1,5 @@
+opencv-python-headless
+ai-edge-litert
+gpiozero
+RPi.GPIO
+numpy
